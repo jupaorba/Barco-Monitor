@@ -1,0 +1,4 @@
+pyserial
+customtkinter
+matplotlib
+numpy
