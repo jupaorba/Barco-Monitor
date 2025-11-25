@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación de escritorio en Python para monitorear en tiempo real la orientación (Pitch, Roll) y el rumbo (Heading) de un barco (o cualquier objeto) utilizando sensores conectados a un Arduino.
 
-![Screenshot de la Aplicación](PLACEHOLDER_SCREENSHOT_APP)
+![Screenshot de la Aplicación](img/cap.jpeg)
 
 ## Características
 
